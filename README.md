@@ -1,7 +1,49 @@
 EXPERIMENT-5
+
+
+
+
+
+
+
 Name: Vaishnavi Pangare
+
+
+
+
+
+
+
+
+
+
+
 PRN: 25070123501
+
+
+
+
+
+
+
+
+
+
+
 ENTC A3
+
+
+
+
+
+
+
+
+
+
+
+
+
 Title: Decision Making in C++
 In programming, decision making allows a program to choose different paths based on conditions. It's similar to how we take decisions in daily life — for example, “If it's raining, take an umbrella. Otherwise, don't.”
 

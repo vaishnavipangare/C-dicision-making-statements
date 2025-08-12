@@ -91,14 +91,39 @@ An if condition inside another if. Used when one condition depends on another.
 Best for fixed options (like menu choices or operator-based programs). Compares a variable with several constant cases and executes the matching one.
 
 Program on decision making
+
+
+
+
+
+
 1. Even or Odd Checker
+
+
+
+
+
+
+
 Checks if a number is divisible by 2. Uses the modulus operator and if-else condition to determine and display whether the number is even or odd.
 
 
 
 
 
+
+
+
+
 2. Vowel or Consonant Identifier
+
+
+
+
+
+
+
+
 Accepts a character input and checks whether it's a vowel using either if-else or a switch case. If not a vowel, it’s treated as a consonant.
 
 
@@ -106,7 +131,23 @@ Accepts a character input and checks whether it's a vowel using either if-else o
 
 
 
+
+
+
 3. Largest of Three Numbers
+
+
+
+
+
+
+
+
+
+
+
+
+
 Takes three numbers and uses else-if ladder or nested if to compare and determine the largest among them.
 
 
@@ -115,7 +156,28 @@ Takes three numbers and uses else-if ladder or nested if to compare and determin
 
 
 
+
+
+
+
+
+
+
+
 4. Simple Calculator
+
+
+
+
+
+
+
+
+
+
+
+
+
 Implements a calculator using a switch statement. Based on the operator entered (+, -, *, /), it performs the respective arithmetic operation.
 
 
@@ -124,7 +186,24 @@ Implements a calculator using a switch statement. Based on the operator entered 
 
 
 
+
+
+
+
+
+
+
+
 5. Switch case with break statements (food Menu Program)
+
+
+
+
+
+
+
+
+
 Menu-driven application using switch-case. Displays a food item based on the user's numeric choice. A default message is shown for invalid selections.
 
 
